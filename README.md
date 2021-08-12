@@ -20,7 +20,7 @@
 
 ####  Interest: <br />
 <p align="center">
-<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Pattern Recognition-blue"> 
+<img src="https://img.shields.io/badge/Machine Learning-green"> <img src="https://img.shields.io/badge/-Data%20Science-turquoise"> <img src="https://img.shields.io/badge/Deep Learning-red"> <img src="https://img.shields.io/badge/Computer Vision-magenta"> <img src="https://img.shields.io/badge/Natural Language Processing-yellow"> <img src="https://img.shields.io/badge/Pattern Recognition-blue"> 
 </p>
 
 ####  How to reach me: <br />
