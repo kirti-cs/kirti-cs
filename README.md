@@ -13,7 +13,7 @@
 <a href="https://github.com/kirti-cs"><img src="https://img.shields.io/github/followers/kirti-cs?style=social"></a>
 </p>
 
-<p align="center">My name is Kirti Sharma. I'm currently a postgrad student, pursuing Mtech in Artificial Intelligence from University of Hyderabad. I’m currently working on Deep Learning Models. My work mostly include Computer Vision and Natural Language Processing. 
+<p align="center">My name is Kirti Sharma. I'm currently working as Data Scientist at Azentio Software Pvt Ltd. I had done Mtech in Artificial Intelligence from University of Hyderabad. I mostly works on Deep Learning Models. My research work at University mostly include Computer Vision and Natural Language Processing. 
 </p>
 
 <p align="center">When I'm not researching and coding, you can find me watching TV series, reading novels or listening to music. Memes are something that are appreciated very much. I'm new to GitHub, going to share my codes with fellow users, so anyone can utilize it. Please feel free to find the bugs in the code. </p>
